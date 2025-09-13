@@ -1,0 +1,41 @@
+name: joel_paul_s_application
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: ^3.6.0
+dependencies: 
+  flutter:
+    sdk: flutter
+  flutter_localizations: 
+    sdk: flutter
+  flutter_svg: ^2.0.12
+  cached_network_image: ^3.4.1
+  shared_preferences: ^2.3.3
+  connectivity_plus: ^6.1.0
+  gradient_borders: ^1.0.2
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+  universal_html: ^2.2.4
+dev_dependencies: 
+  flutter_test:
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Onest
+      fonts: 
+        - asset: assets/fonts/OnestBold.ttf
+          weight: 700
+    - family: Manrope
+      fonts: 
+        - asset: assets/fonts/ManropeExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/ManropeMedium.ttf
+          weight: 500
+        - asset: assets/fonts/ManropeSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/ManropeLight.ttf
+          weight: 300
