@@ -1,22 +1,38 @@
 Flutter Food Order App 🍕
+
+
 A single-workflow food ordering application built with Flutter. This project demonstrates a clean, scalable, and testable mobile app architecture using the BLoC pattern for state management. The entire user journey, from selecting a restaurant to confirming an order, is implemented with a focus on SOLID principles and a great user experience.
 
 📸 Screenshots
+
 Replace the placeholder links below with your actual screenshots.
 
 Restaurant List
+
+
 <img width="373" height="792" alt="restaurant_list" src="https://github.com/user-attachments/assets/fa8b196b-a9d1-405b-b199-d3a7a91a4e21" />
 
+
 Menu View
+
+
 <img width="371" height="783" alt="menu_view" src="https://github.com/user-attachments/assets/c157281e-7e23-45e4-8462-6c6057182855" />
 
+
 Cart View
+
+
 <img width="373" height="798" alt="cart_view" src="https://github.com/user-attachments/assets/3981dca2-1edf-4f9b-9cac-cb5738b78176" />
 
+
 Order Confirmation
+
+
 <img width="368" height="784" alt="order_confirmation" src="https://github.com/user-attachments/assets/ec9e1170-5f16-44d3-9662-d093c11ddac9" />
 
+
 ✨ Features
+
 Browse Restaurants: Fetches and displays a list of local restaurants from a mock repository.
 
 View Menus: Select a restaurant to view its detailed menu.
@@ -30,6 +46,8 @@ Order Confirmation: A clean and simple confirmation screen after a successful or
 Robust Error Handling: Implemented error states with a "Try Again" option for data-fetching failures.
 
 🏛️ Architecture & Tech Stack
+
+
 This project was built with a modern and robust architecture to ensure separation of concerns and testability.
 
 State Management: BloC (Business Logic Component) using the flutter_bloc package to manage the state of the application in a predictable and reactive way.
@@ -51,6 +69,8 @@ Dependency Injection: RepositoryProvider and BlocProvider are used to provide de
 Design: A custom, aesthetically pleasing theme using Material Design components and google_fonts.
 
 🚀 Getting Started
+
+
 Follow these instructions to get the project up and running on your local machine.
 
 Prerequisites
@@ -61,7 +81,7 @@ An editor like VS Code or Android Studio with the Flutter plugin.
 Installation & Setup
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone https://github.com/wizardAURA/Job_projects.git
 
 
 Navigate to the project directory:
