@@ -8,11 +8,9 @@ Restaurant List
 <img width="373" height="792" alt="restaurant_list" src="https://github.com/user-attachments/assets/fa8b196b-a9d1-405b-b199-d3a7a91a4e21" />
 
 Menu View
-
 <img width="371" height="783" alt="menu_view" src="https://github.com/user-attachments/assets/c157281e-7e23-45e4-8462-6c6057182855" />
 
 Cart View
-
 <img width="373" height="798" alt="cart_view" src="https://github.com/user-attachments/assets/3981dca2-1edf-4f9b-9cac-cb5738b78176" />
 
 Order Confirmation
